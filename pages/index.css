@@ -1,0 +1,11 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo-header/header__logo-header.css);
+@import url(../blocks/landscapes/landscapes.css);
+@import url(../blocks/main/main.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/russian-travel/russian-travel.css);
+@import url(../blocks/till-baikal/till-baikal.css);
+@import url(../blocks/what-saw/wgat-saw.css);
