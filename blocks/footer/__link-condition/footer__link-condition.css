@@ -1,0 +1,4 @@
+.footer__link-condition:hover{
+  opacity: .8;
+  transition: linear .4s;
+}

@@ -1,0 +1,4 @@
+.places__content-link_condition:hover{
+  opacity: .8;
+  transition: linear .4s;
+}

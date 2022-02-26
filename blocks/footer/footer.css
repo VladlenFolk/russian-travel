@@ -1,3 +1,8 @@
 .footer{
-  background-image: url(../../images/header-logo.svg);
+max-width: 1184px;
+margin: 92px 3.125% 24px;
+display: flex;
+justify-content: space-between;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
 }
