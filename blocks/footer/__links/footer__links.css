@@ -3,3 +3,8 @@
   padding-inline-start: 0;
   display: flex;
 }
+
+  @media screen and (max-width: 686px){
+    .footer__links{flex-direction: column;                
+    }
+    }

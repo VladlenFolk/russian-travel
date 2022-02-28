@@ -7,5 +7,17 @@
   text-transform: uppercase;
   color: #FFFFFF;
   margin: 8px 0 0;
-
+  align-self: flex-start;
+  box-sizing: border-box;
 }
+
+@media screen and (max-width: 768px){
+  .lead__caption {padding-left: 24px;
+  }
+  }
+
+ @media screen and (max-width: 320px){
+    .lead__caption {padding-left: 16px;
+    }
+    }
+  

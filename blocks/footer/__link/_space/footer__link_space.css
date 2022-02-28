@@ -1,3 +1,10 @@
 .footer__link_space{
   margin-right: 18px;
+  padding-bottom: 0;
 }
+
+@media screen and (max-width: 686px){
+  .footer__link_space{padding-bottom: 32px; 
+    margin-right: 0;
+  }
+  }

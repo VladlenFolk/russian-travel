@@ -2,3 +2,7 @@
   display: grid;
   align-self: end;
 }
+
+@media screen and (max-width: 400px){
+  .places__content-link{padding-left: 16px;}
+  }
