@@ -6,3 +6,5 @@
 ### Технологии
 В этом проекте мы освоили адаптивную и резиновые верстки с использованием html и css.
 
+**Ссылка на проект**
+ https://vladlenfolk.github.io/russian-travel/index.html
