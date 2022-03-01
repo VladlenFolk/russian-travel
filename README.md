@@ -8,7 +8,3 @@
 
 **Ссылка на проект**
  https://vladlenfolk.github.io/russian-travel/index.html
-<<<<<<< HEAD
-
-=======
->>>>>>> 104c40509478ca5736f240c0dad0c9cbae5b7f35
