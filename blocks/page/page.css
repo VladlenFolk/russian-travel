@@ -4,3 +4,8 @@ margin: 0;
 padding: 0;
 font-size: 0;
 }
+
+@media screen and (min-width: 1280px){
+    .page{margin: 0 auto;
+           padding: 0;}
+    }

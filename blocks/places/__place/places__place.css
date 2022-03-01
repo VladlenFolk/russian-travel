@@ -18,14 +18,13 @@
 }
 
     @media screen and (max-width:622px){
-      .places__place{grid-column-gap: 28px;
-                     grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));;
+      .places__place{grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
                     }
         }
  
         @media screen and (max-width:400px){
           .places__place{grid-row-gap:32px;
-                        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));;
+                        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
                         margin: 0 auto;  
                         }
         }
